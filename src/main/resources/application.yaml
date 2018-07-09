@@ -1,0 +1,4 @@
+
+# netty configuration
+netty:
+  port: 8888
